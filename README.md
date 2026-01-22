@@ -120,7 +120,7 @@ Head over to Discord
 
 ## 💬 Community
 Join the conversation around PrivateGPT on our:
-- [Twitter (aka X)](https://twitter.com/PrivateGPT_AI)
+- [Twitter (aka X)](https://twitter.com/ZylonPrivateGPT)
 - [Discord](https://discord.gg/bK6mRVpErU)
 
 ## 📖 Citation
